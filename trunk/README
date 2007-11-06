@@ -1,0 +1,64 @@
+Iki Media Manager - http://iki-project.org
+
+Iki is a set of tools to manage media files. The main part of iki
+consists of a webservice and a website (a web client). But iki is not
+only the web client. There is (or will be) a *desktop* client (written
+either in python or C/C++ or..), some f-spot (http://f-spot.org)
+plug-ins, etc..
+
+Features
+========
+
+.. Here are the **main** feature to highlight
+
+
+Dependencies
+============
+
+.. Here are the dependencies
+   3 type of dependencies : Python, Django & other (like tools,
+   libraries, ..)
+
+
+Installation
+============
+
+See the INSTALL file and/or the documentation
+(http://iki-project/documentation) to know how to install iki.
+
+
+Configuration
+=============
+
+I'm probably repeating with the INSTALL file but in order to get the
+django project working, you should create a settings_local.py as
+following (with your own settings)
+
+.. sourcecode: python
+
+   #!/usr/bin/env python
+   # -*- encoding: utf-8 -*-
+   import os
+   import sys
+   
+   DEVELOPMENT = True
+   if DEVELOPMENT:
+       SHARED_PATH = os.path.normpath("/home/demeester/src/pythonpath")
+       sys.path.append(SHARED_PATH)
+           
+       SECRET_KEY = 'c$-=)-qw&fp@&)m9$5=+)-!4ja*#xiyis6&fd$@@i7o1r+nj8r'
+           
+       DATABASE_ENGINE = 'sqlite3'
+       DATABASE_NAME = os.path.join(os.path.abspath(os.path.split(__file__)[0]), 'db/iki.db')
+
+In this example (it's my own settings_local.py -- vdemeester), I just
+modify the PYTHONPATH in order to let know python about all local
+package that are a dependency for iki. 
+
+It's also in this file you should define the Database settings, like
+you do in any django project.
+
+Contribute
+==========
+
+.. How to contribute to iki.
