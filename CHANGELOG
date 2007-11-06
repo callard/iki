@@ -1,0 +1,1491 @@
+commit 3e3fc22179d2fc87b1f62ecf0ea9034ed3b16bde
+Author: Vincent Demeester <vdemeester@shortbrain.org>
+Date:   Wed Sep 19 18:56:08 2007 +0200
+
+    Cleaning : OK
+
+commit 7fe029d9995eb0e28a7f55c3e0df06f94ea6c160
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Sep 19 16:57:58 2007 +0000
+
+    Oups.. OK now
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@256 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit e6f9425ad18c17b8d0227ba1cf9c04ee3a521ead
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Sep 19 16:55:02 2007 +0000
+
+    Cleaning : OK
+    
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@255 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 7465e95fc292166bd9f372dc1f9630e85601c999
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Sep 19 16:45:31 2007 +0000
+
+    Clean folder ('cause git-svn does not seem to do it)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@254 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 9cbd7c059edee237beac5f995313296211674cd0
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Sep 19 16:40:14 2007 +0000
+
+    Cleanning.. again
+    
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@253 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 0b853b3c8ec61551ab8062fd16398c5780c2ff58
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Sep 19 16:17:35 2007 +0000
+
+    That's it
+    
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@252 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 1d34a1e921d89e4c348b59ef0dc7e3e2d8d857bc
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Sep 19 16:17:12 2007 +0000
+
+    After cleaning, populate
+    
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@251 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 99d81fc0ce7dc226ccd154353e10535554817ae6
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Sep 19 16:17:00 2007 +0000
+
+    Repo. total clean
+    
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@250 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 91fb9c4901e31e54d4deb71140b26355147e9cbd
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Sep 19 16:16:48 2007 +0000
+
+    Clean up, for the last time
+    
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@249 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 2b5c05303ff7e07c463c4414c1b0a198848e0c9e
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Jun 20 18:28:59 2007 +0000
+
+    remove install doublon
+    
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@248 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 75bb761a0da145480661651746e7c2e6932eb31e
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Jun 20 17:51:03 2007 +0000
+
+    Little update
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@247 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 66a7e0833f5107449d7f1e24eb5eb3e853cf8034
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed May 30 20:20:18 2007 +0000
+
+    Update externals
+    
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@246 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 08a87156c7d594d1565a8a123360c352817262b8
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue May 29 21:18:53 2007 +0000
+
+    remove *.pyc :@
+    
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@245 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit daa4c2d6dcdcba12605d123d291569d628324257
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue May 29 21:03:58 2007 +0000
+
+    creating changelog model
+    
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@244 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 891317bb7b171a3134382cb1e78f2b9040ccef48
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue May 29 18:51:41 2007 +0000
+
+    Adding "some" of trusted and already used vendor
+    
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@243 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 43bb5c2b9e97b16ac9f6c06ee8a9a62b1c1b3776
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue May 29 18:14:20 2007 +0000
+
+    testing svn:externals
+    
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@242 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 3c789aad2f8cec717daa46abba4755aca11e8f20
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue May 29 17:47:41 2007 +0000
+
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@241 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 5c26909adf04b73513bb40fc9ba2d2d52fcaf24d
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue May 29 17:44:25 2007 +0000
+
+    adding "start" file
+    
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@240 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 5d981c7060af56f163ad84991c4d4e46771466c0
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun May 27 20:17:30 2007 +0000
+
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@239 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 1ec71bcc3cf88e89511e33d89afdc295505fa44a
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun May 27 20:16:42 2007 +0000
+
+    nothing
+    
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@238 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 8a71aca4385695df28ff4747a7fe5fbb5b01ff83
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun May 27 14:29:59 2007 +0000
+
+    in instance :)
+    
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@236 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 2287f40a1a56c1f7fba21eadaa8c54a76d702779
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun May 27 14:28:25 2007 +0000
+
+    Re create trunk
+    
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@235 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit abb81a5c56f7e0d840f5c0404c232de0d2bc4c3b
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Apr 4 16:01:28 2007 +0000
+
+    Last ECE PT commit.. Now we are free :P
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@233 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit c5d78f8344fe3ed1ef0a052104eb1f7dc82ab8e6
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Apr 4 00:50:21 2007 +0000
+
+    It's time to sleep i think..
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@232 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 715f724e50e344768cc36ef9c6bdccf5ca87c667
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Apr 3 23:47:02 2007 +0000
+
+    Final search template modif'
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@231 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit a8fc468cb5030b7a6bc7e84793eb09b8b455bb37
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Apr 3 23:37:56 2007 +0000
+
+    demelo server does not work
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@230 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit f78167f2d93c565baf3074b7d93c92e2abe36618
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Apr 3 23:37:11 2007 +0000
+
+    erf
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@229 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 1050ba530b42ecabc8bf509bf9eb0445ed340b00
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Apr 3 20:39:16 2007 +0000
+
+    Final commit.. i don't think so !
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@228 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit c7d711e532bf1b958f3df224c4d6a50296f62139
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Apr 3 18:39:27 2007 +0000
+
+    Some UI improvements (+1)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@227 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit baf766d8bb921a7a6a08b1e53f0fbc20bad09c69
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Apr 3 18:09:33 2007 +0000
+
+    Some UI improvements
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@226 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 0efc266f6f79bd733745c13b5e47f9fe2a5d7db6
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Apr 3 15:13:35 2007 +0000
+
+    Oubabababababa
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@225 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 4ee7ab3f136046afb6420a697301b61911ddab84
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Apr 3 10:28:47 2007 +0000
+
+    reports done
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@224 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 5d4d40bac1eb1128650a2ab51c0c1537f3f7806e
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Apr 3 09:02:16 2007 +0000
+
+    oups, bug
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@223 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit bb094eb2b452844f5a7a49b5c59cee6cbf7eb34f
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Mon Apr 2 22:06:07 2007 +0000
+
+    Better skin for search page (with color picker :)), and some form improvement
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@222 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 5f66a39cdb516cd43df14c977d1d4cea7bca5fb4
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Mon Apr 2 18:43:24 2007 +0000
+
+    On te l'avais pourtant dit de pas monter les permissions à l'envers !!!
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@221 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 3bf0423b1b6c6742f438861f554dfdb2b1a695b7
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Mon Apr 2 16:52:37 2007 +0000
+
+    Permission form and after, whisky.. hum, no, CSS and JS ;P
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@220 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit cbc4f53767846406e34953af09b6bee0ec11acc7
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun Apr 1 20:00:54 2007 +0000
+
+    group 1st part
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@219 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 498160b4574a2fc5de63b7610dbc8576ed9085b3
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun Apr 1 15:51:24 2007 +0000
+
+    User profile edition (form) done
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@218 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit aeb769edaceb58d8c1c175e3018866e05455c633
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun Apr 1 12:11:58 2007 +0000
+
+    favorite view done !
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@217 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 8ef4f53adcd5696f43a6413d13ac26d444b41df9
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sat Mar 31 23:26:26 2007 +0000
+
+    prepare "add fav"
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@216 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit ed5fd00f28c4fbf66a43d591f3db9d233ab6398f
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sat Mar 31 22:31:15 2007 +0000
+
+    Update form for video really done
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@215 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 17b10a8e94ef2a8c53751563129f0149f8b5e336
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sat Mar 31 22:23:12 2007 +0000
+
+    Edit form for every media
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@214 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit d623ca3bfc88e4514c971ad224c70fa1aeb97eb3
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sat Mar 31 21:50:54 2007 +0000
+
+    License form done !
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@213 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 561ccebe79acbdde31d26be439f4256efc2cabc5
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sat Mar 31 20:05:11 2007 +0000
+
+    Album edit form done
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@212 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 518c0c50ce8395af00bcc1e7b1b4d7ebd6fdeff8
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sat Mar 31 16:59:23 2007 +0000
+
+    Rating (js and json view) done :D
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@211 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 9cbc1fe5e24451912d312383769fe40efc304739
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sat Mar 31 11:56:09 2007 +0000
+
+    Rating part1 : css and js
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@210 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 11f6f204ede153082fb6e11449741aa7fd69edec
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sat Mar 31 10:46:05 2007 +0000
+
+    Search engine done (hard way :))
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@209 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 6cb409c8db89f9415beb15c0e368349d7edcd4c3
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Fri Mar 30 23:39:47 2007 +0000
+
+    Search view done for photos (with... :p)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@208 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 3d16ab021dbc64b3710625511442c1d866268152
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Fri Mar 30 19:04:59 2007 +0000
+
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@207 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit e48e77755d3701358e9409422f59f972089a9e10
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Fri Mar 30 17:26:52 2007 +0000
+
+    favorites, gogogo adding
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@206 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 70b281c6e0f5de425398ed134442134aec2e1251
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Fri Mar 30 17:11:55 2007 +0000
+
+    Just some urls add
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@205 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 6d6624e7f9cd8dde99e2e0954b9b5e7a50d1fd70
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Fri Mar 30 17:07:12 2007 +0000
+
+    When you correct a bug, you create 2 bugs
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@204 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit a286ff4d1689a2a045516d001f61da3fddd88754
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Fri Mar 30 16:56:39 2007 +0000
+
+    bug fixed for video (later)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@203 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit a5a89bd4688ea2a1bfb6d801eb008501f84edcdd
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Fri Mar 30 16:53:56 2007 +0000
+
+    Upload Bug fixed (recursive save)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@202 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit d52408549e4b9c35f22c234020ce84eed87b22d8
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Fri Mar 30 16:34:04 2007 +0000
+
+    oups
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@201 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit b7c1130c46c7398ddf3717516446622025eaa565
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Fri Mar 30 16:33:44 2007 +0000
+
+    mplayer bug
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@200 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 06c71dabe8645f3ca84e5bc395289a827e430e6a
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Fri Mar 30 15:55:19 2007 +0000
+
+    Update form done for photo, video and sound (update few managers)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@199 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit ce7e003d2054500e61a50b9a6126bc4e230f3504
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Fri Mar 30 13:36:04 2007 +0000
+
+    Sounds template updated or done
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@198 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 5e24ad8e745e2704263d8f25a70e93e8545f2dcd
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Mar 29 21:43:00 2007 +0000
+
+    Video template update
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@197 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 43f4291d4970ab57973d4adb0acb3eb00c0e3ae9
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Mar 29 21:31:11 2007 +0000
+
+    Videos and sounds signals done.. some videos templates update
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@196 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit db58ab45f12d49440e9b909ef0d1ab2b35198254
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Mar 29 21:18:43 2007 +0000
+
+    start of sound vievv
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@195 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 7e443ca536e401094c2f771a1b2adcfeac8241ab
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Mar 29 20:50:14 2007 +0000
+
+    Video List views updated
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@194 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 058e2d1a1fa5800ebd2cfa15d41cb6e82f0defd4
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Mar 29 20:34:59 2007 +0000
+
+    get_absoulte_url + videos and sounds url update
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@193 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 83525427ee0b62a35e64a808dbea51f7110e157e
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Mar 29 19:33:05 2007 +0000
+
+    Video thumbnails done :D
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@192 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit f8603d81e69af02e9bfe9e474744b046b3a1ebc9
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Mar 29 18:21:25 2007 +0000
+
+    user profile vievv
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@191 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 23e4739475595de97f940ec6ca1e399a230ee0f6
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Mar 29 18:02:41 2007 +0000
+
+    Photos archives done
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@190 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 59b7a609d939f8aab393088d0436bbb73c4bd059
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Mar 29 16:36:13 2007 +0000
+
+    photos favorites views done
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@189 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit f6949cae1aa60690b7f509e2137e2792a65fbb07
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Mar 29 16:33:18 2007 +0000
+
+    Favorite manager update
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@188 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit aa6204dfeed80187c916625c03458ebfc8a39400
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Mar 29 15:39:24 2007 +0000
+
+    Albums done
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@187 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 0897ac7b4d46d1dff3cd63849405c7809c092cf1
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Mar 28 15:06:41 2007 +0000
+
+    tags
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@186 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 40113f2433280942e3679e37c9157019d2ec8bce
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Mar 28 12:29:33 2007 +0000
+
+    Album manager and queryset
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@185 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 0b89da024c0666d39d0d438eb7966bcd07a14001
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Mar 28 11:38:40 2007 +0000
+
+    textile markup language for description and comment
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@184 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 557fc2ccfa7ead7dd814f1ee781352fdf798d8da
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Mar 28 11:37:22 2007 +0000
+
+    Update photo list (with pagination)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@183 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit b8ce3ed624626dbd32ecf584562ecf3d879e52a1
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Mar 28 08:27:18 2007 +0000
+
+    Webservice (rest) in apps.ws, but let's do something else
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@182 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit b124e3e70ef1c579e1d5417f635e30c7156d9789
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Mar 27 09:57:39 2007 +0000
+
+    REST Webservice in the run... soon :)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@181 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 5042c2abf11a25b97d3dfd6ec409eabbbd6fe444
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Mon Mar 26 22:07:28 2007 +0000
+
+    Openid bug fixed !! Openid works !! wOoOoooot (i'm crasy)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@180 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 3c0ac93310e4c37ecb796c9d1df76dca90f69f38
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun Mar 25 15:22:55 2007 +0000
+
+    License templatetag done
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@179 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 5af3afccb7d7c24bf3ce920ead335837068edce2
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun Mar 25 14:22:13 2007 +0000
+
+    Ip_address support for lot's of form..
+    Comment form and adding view done.
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@178 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit a1a5be3455763a73e7bfa99ee76e3dfc15447b40
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sat Mar 24 22:59:23 2007 +0000
+
+    Comment templatetags done.. (next license and rating + comment view)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@177 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 611e74e5ea8affe445594516c0d0205f23d3a208
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sat Mar 24 19:17:06 2007 +0000
+
+    Comment templatetags soon finished !
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@176 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit b47bf78d6a3f5f56cdc225530fc30ca56d978a17
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sat Mar 24 19:01:14 2007 +0000
+
+    template update
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@175 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 551d4e08b257bef98a078d73252dc045871618e7
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Fri Mar 23 08:39:00 2007 +0000
+
+    Update upload form. (next.. comments !)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@174 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit ef36fee1508a902b0c7d16f4a251ece5603e8fea
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Mar 22 22:12:47 2007 +0000
+
+    Updating Photo view > templatetag for exif and iptc (models update to have a dict !)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@173 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit a45ad464d8cd03e06aeed9c329df370e20e40c09
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Mar 22 19:31:24 2007 +0000
+
+    Updating Photo view > js & co
+    
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@172 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 86d8fcf057eb80fbbc789f3f49fc0bb1429e6e86
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Mar 22 14:21:07 2007 +0000
+
+    Permission updated for AnonymUser (no more bug :))
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@171 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit f2c3d01af1c218118030292f9f8242bb7de482af
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Mar 22 13:32:24 2007 +0000
+
+    fix tag_cloud bugs (SQL query was bad) and add update field for each models (syncdb needed)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@170 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 50a24b99ec84eb0594fc53c6ebcb82e21ff0d352
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Mar 21 22:52:06 2007 +0000
+
+    Humpf, after breaking trunk, i.. repair it.. but it's not very clear in my mind (but get_FIELD_content_type works)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@169 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 85d06cb301740fcd8a36ed4ce137976666e552cf
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Mar 21 22:11:58 2007 +0000
+
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@168 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit e36526fb98f7a76ca7ea085e0bf49dd5c4510e5e
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Mar 21 22:06:49 2007 +0000
+
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@167 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 05bcb3e3c8a3b03ce29d89e6cf44950df55b73af
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Mar 21 21:45:17 2007 +0000
+
+    i break twice !
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@166 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 329bd6b490d5099a0cfd96bd0d8b43fd30ac3307
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Mar 21 21:42:31 2007 +0000
+
+    i'm a fool
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@165 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 40b306d935c7f7ea88df39af851f39351868615d
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Mar 21 21:39:20 2007 +0000
+
+    Update get_FIELD_content_type for all !
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@164 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit ffff115fb3a9424d1df5d2ff80d9f55001f9db7a
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Mar 21 21:24:30 2007 +0000
+
+    coco fume !
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@163 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit c62338c40756b09be38700021fdab4aad1205596
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Mar 21 21:16:27 2007 +0000
+
+    sound
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@162 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit ae48ef6af9d29ddbd0d7729c56f797ef95d9ae7e
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Mar 21 20:44:47 2007 +0000
+
+    get_FIELD_content_type bug fix for sound
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@161 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 37c09d8c131618e071a9b457991b6a80a290a863
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Mar 21 17:51:28 2007 +0000
+
+    javascript debug using firebug or js console
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@160 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit cb5ecf03c18dd79c94aa9dc00c51b810d6aa818a
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Mar 21 12:57:13 2007 +0000
+
+    debug scripts ?
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@159 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit b579989fe23f4f06bb9b7a8d9bcde068457e0c6a
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Mar 21 11:09:19 2007 +0000
+
+    debug's template, css and js !
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@158 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 5b25df9d0e0582249ba90d92aa946316a44e7bd2
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Mar 20 23:50:50 2007 +0000
+
+    Beginning a basic design and the photo view
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@157 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit d464ae04e8af491f8b97fb2050bfba6e8570c9b3
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Mar 20 18:30:43 2007 +0000
+
+    Let's be fun, start the photo viewer :D
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@156 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit ab60928dc4d0a258caf17a21adf4ba0893de16ac
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Mar 20 14:40:38 2007 +0000
+
+    fix tags cloud bugs (for user who don't have any tag)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@155 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit a7d50bd77d822d980a2f14b23df803ddea84cf9d
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Mar 20 11:31:38 2007 +0000
+
+    tools, and urls update
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@154 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit addd0050ed1ce3db73d08a0bdd063e78cedc91c5
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Mar 20 11:30:47 2007 +0000
+
+    Testing feeds on Photos (fix need :s)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@153 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 9b0438fedfff64cddf6727eed0a7d8f90ac6ddfc
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Mar 20 09:18:53 2007 +0000
+
+    Update tags related views (simplify it)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@152 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit fa846efa9c4e75100257a6a8cdbd4121d32e70ec
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Mar 20 09:18:08 2007 +0000
+
+    Update video managers & querysets
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@151 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 1ccc5a585453eb29852ac635d9db5cf737ed29f0
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Mar 20 08:45:32 2007 +0000
+
+    oups.. no page i say !
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@150 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 90b1b674a24b82d5437233fc27bc0a38cfff6c95
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Mar 20 08:44:49 2007 +0000
+
+    remove prints and page arg for tag_cloud
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@149 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit afa9ae9ea376b55fd3e4911fc8690aa0db0b9047
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Mar 20 08:36:48 2007 +0000
+
+    Update managers for 'general' clouds !
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@148 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 624b8a0b16bc286f42d819b9b090b1a1109f26f8
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Mar 20 08:31:36 2007 +0000
+
+    Updating tag clouds
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@147 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 00ae9f347d13433e72b3ea6567d07da33965da25
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Mar 20 08:20:14 2007 +0000
+
+    get_favorite but not get_for_user !
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@146 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit b624f63ba756aab9f8578fa2c8453c153152a666
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Mon Mar 19 22:57:14 2007 +0000
+
+    Adding Sound manager !
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@145 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit d603c3138598c978408a3bbf1d89a74f307a4f36
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Mon Mar 19 22:47:18 2007 +0000
+
+    Tag and TaggedItem models manager to get tags from user (and have a cloud too :D)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@144 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit a56ea327147e40cf709babd751f9eefb7de32a78
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Mon Mar 19 22:07:58 2007 +0000
+
+    Photo vievvs update
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@143 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 5b8e8db1f8617059c9550e3b9d5eab4367437908
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Mon Mar 19 21:52:29 2007 +0000
+
+    Fix photo manager groups bug
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@142 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 40b9ddd9f5502d36d14cfa266978e8624027b994
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Mon Mar 19 21:16:22 2007 +0000
+
+    oups encore !
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@141 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 087da1ed1fd808ccd1b362c4b8b490aab428df8d
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Mon Mar 19 21:13:36 2007 +0000
+
+    oups :)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@140 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit c7a9c6ab3094ae37f01399796408974dc265fcf2
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Mon Mar 19 20:36:18 2007 +0000
+
+    Manager's day !
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@139 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 89af9bcece1c0262433b4562e2f5710fb6b54d6f
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Mon Mar 19 17:38:07 2007 +0000
+
+    Photo managers and signals update
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@138 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit d434b33e05b856155953a8e1bc3b923dacee59cf
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Mon Mar 19 17:37:21 2007 +0000
+
+    Group and Permission models, managers and querysets updated
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@137 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 27aaee687d2f2747f219d7d8fedde907b23420db
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Mon Mar 19 17:36:41 2007 +0000
+
+    Adding common templatetags (and update python's one)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@136 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit d9b66fe5b3448bced81332b362397fce5f1eca11
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Mon Mar 19 17:35:59 2007 +0000
+
+    License models update
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@135 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 516683c831350552d5ef17bb9f419a112ba78d2a
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun Mar 18 23:19:35 2007 +0000
+
+    Update permission manager (by_user, and by application)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@134 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit b69ced6f8e5290fad5b37cf1e37698ee0eecfee5
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun Mar 18 22:13:45 2007 +0000
+
+    Misc fix (forms, models..)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@133 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 0fde170b29c6f83cd837fb81d02917e438200852
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun Mar 18 21:51:06 2007 +0000
+
+    Report models "freeze" and managers update
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@132 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit c6346a226fbb115181914eb52070fc5f75ad6a2e
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun Mar 18 21:50:33 2007 +0000
+
+    Rating models "freeze"
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@131 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 7e27254f9d0fe4761563c9b45f63b5a785200efa
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun Mar 18 21:49:56 2007 +0000
+
+    Photos models "freeze" and update forms (for tags)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@130 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 42a465385cf5cb69ef39c32ef05758a0ff1cc767
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun Mar 18 19:23:27 2007 +0000
+
+    Creating Report application
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@129 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit b6fc1bf8b940cf8813db309c815f4dc98bb45a1f
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun Mar 18 15:54:08 2007 +0000
+
+    Updating photo models (remove groups) and managers
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@128 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 8c25a906e048629d0da5c3f5c660a04aebcf9026
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun Mar 18 01:15:46 2007 +0000
+
+    Playing with UserProfile properties (determine user age), and signals
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@127 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 56a3e48dd4a239ac7903363d8f475f055b11dc08
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun Mar 18 01:13:57 2007 +0000
+
+    Updating Photos views (upload & base), Creating custom managers and queryset.
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@126 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit a800597a2606150d594a683c8dd79007afb73ee5
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sat Mar 17 19:55:18 2007 +0000
+
+    Modying Rating apps
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@125 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit a0330a157f09f5400958795e0f54b5e8f0f9fd57
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sat Mar 17 14:42:17 2007 +0000
+
+    Misc. Models update
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@124 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit f6812e243bd2563d8f0b50f007c78ae66180a4d1
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Fri Mar 16 08:41:14 2007 +0000
+
+    favorite > favorites
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@123 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit babf7152228c34b114c6578d08d593afc654615e
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Mar 15 23:50:33 2007 +0000
+
+    Update media & users models and urls (and so on, views !)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@122 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 66e4f2d17d9ed7ed1e6f2a8496f41cc5211f4146
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Mar 15 23:44:34 2007 +0000
+
+    Rating app update
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@121 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit f159bc17170890b53ff9d16ee53ec7f4395f5165
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Mar 15 23:44:15 2007 +0000
+
+    Define urls & views for License app
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@120 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 501a78205daddfb60c844dd94a140b250568e2cc
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Mar 15 23:43:40 2007 +0000
+
+    Update comments app
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@119 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 7ec95b10608d00ac217600ac60a5c32db55cb4f0
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Mar 15 23:43:07 2007 +0000
+
+    Create favorites Model & Manager
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@118 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 4654e1bb5c8cc1ea9ea580c1cabaf3a37982fc24
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Mar 15 20:34:45 2007 +0000
+
+    Creating License Models and Managers
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@117 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 1f45cd564817be187d8651f0a63bacdcbe90571b
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Mar 15 20:33:25 2007 +0000
+
+    Creating Comment Models and Managers
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@116 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 476e09a02ccb1b7f3ac7cc9c6122ce610933f56e
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Mar 15 17:41:51 2007 +0000
+
+    Adding some user pref
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@115 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 7d6c312614a865469af92d80b253c14f1dd2ebdf
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Mar 15 17:26:00 2007 +0000
+
+    Models updated (field + unique_together)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@114 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 220b1c2ba21a558c06c09540227a63a769bf3b0b
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Mar 13 22:21:31 2007 +0000
+
+    Photo index example view + tv video
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@113 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 0b3a2506a6d5e951d64d6cf824b442f40c1a976d
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Mar 13 16:28:11 2007 +0000
+
+    antoher update !!!
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@112 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 581beb5e69ab41c6d800ac67a0c93d2ee9d32ff0
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Mar 13 16:27:26 2007 +0000
+
+    svn:keywords
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@111 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 7098b34e178c1406be467f6f9bc4a40706387679
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Mar 13 16:25:14 2007 +0000
+
+    another rating update
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@110 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 66e303523c7efda42f740fc6883e50b459eb77ed
+Author: corentino <corentino@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Mar 13 16:18:37 2007 +0000
+
+    rating models update
+    
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@109 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit bcde1dc00d161778cdb4ed5bc991af47df4a7fce
+Author: corentino <corentino@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Mar 13 15:04:44 2007 +0000
+
+    settings ignore
+    
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@108 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit e2673952f136640e50d873721e514234b41aa9e6
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Mon Mar 12 22:32:34 2007 +0000
+
+    Adding django-registration to users app
+    Modifing some import (relative)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@107 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 5c9895fe2a8bf8f6e51050e557144acaef2bab5f
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Mon Mar 12 10:03:41 2007 +0000
+
+    oups, license :)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@106 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 5a8308c4990f5c2b16d18710eacd114238558b92
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Mon Mar 12 10:03:09 2007 +0000
+
+    Adding or modifying some views/urls + templates
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@105 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit d71f4badc24277ffc4e967cb93160409ec8d2b89
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Mon Mar 12 08:28:06 2007 +0000
+
+    Adding search apps (todo)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@104 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit d5371bc99dc293962583bfab33cf8cf83db3b2f7
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun Mar 11 23:22:01 2007 +0000
+
+    Design photos url (and so creating the views), moving tags apps (django-tagging from google hosting project)
+    Upload view (for photos) done (newforms powwa)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@103 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 565612e3c76329b81a7839c7bdaa4928821f658b
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun Mar 11 11:57:48 2007 +0000
+
+    Update field, adding validation..
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@102 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 7851a43baca7d8071c78695fe593edbb3e85d759
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Mar 7 14:27:45 2007 +0000
+
+    tests
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@101 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 2b3d63a651883ccaf6dc8a542acc7915d258c6ba
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Mar 7 14:19:40 2007 +0000
+
+    Updating sounds and photos models, and videos too :)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@100 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 21c9ce341797d2e8ef474eb8bfbc8a3799b2975b
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Mon Feb 26 21:55:20 2007 +0000
+
+    Let's had some admin components, and near the final code of sound and photos models !
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@99 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 594d09508a39cdcd9c4f64e454cfbfb79d27e6e7
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun Feb 25 14:58:53 2007 +0000
+
+    Sound models modified and photo just a little !
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@98 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 0a641c5b0e17497524ad1fb0a0f6d9e9b5e5881c
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sat Feb 24 23:57:47 2007 +0000
+
+    Updating Photos & Sound models, creating Custom field for this 2 apps
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@97 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit bc7eecc64500ac5eb9de0a18169407add9220a13
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Feb 21 20:19:27 2007 +0000
+
+    Photo apps models updated.
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@96 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 2360fa3d9535290fa0b5f4b655620eee6bc6326e
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Mon Feb 19 11:41:33 2007 +0000
+
+    Adding sounds and videos apps
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@95 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit ecf94b5400cc7e15915596b54d7ea6dee19aa327
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun Feb 18 18:42:18 2007 +0000
+
+    Adding the video and sound directories (part 1)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@94 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 6fb62db792ae31d32cf385fba26ba3194a835552
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Feb 13 19:48:53 2007 +0000
+
+    Another step to the Sun !
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@93 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 945f7cc1303a639cd1b49003519832da052f47f4
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun Feb 11 14:23:13 2007 +0000
+
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@92 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit a9e08db3c1b4a8e8cc5d2e3302c5d08f5ea010e5
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun Feb 11 14:22:40 2007 +0000
+
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@91 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 0710e9789c05f12872d704c0a4786a639080d300
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun Feb 11 14:04:45 2007 +0000
+
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@90 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit d4a1a8c3e1569d5986fc09518ab081090a11e0e9
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sun Feb 11 14:04:15 2007 +0000
+
+    :)
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@89 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 90c67ad752d3e21083af88202e2b346fc602346c
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sat Feb 10 21:57:04 2007 +0000
+
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@88 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit d2dfa57bb8d16bcf84013ac1f84965050b13144c
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Fri Feb 2 18:34:30 2007 +0000
+
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@87 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 207b324d4aa11bfb2274f0c93204542d72d5f5c0
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Feb 1 22:55:31 2007 +0000
+
+    adding som svn:keywords and the psyco middleware !
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@86 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit f880f61d97175fb82acbc06d0a6432da58463977
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Feb 1 20:53:12 2007 +0000
+
+    Ouuuaaaaa, i don't wan't to say something..
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@85 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit eede342f9bbfb22280e414c42cd3ac1ea02a50ca
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Feb 1 20:51:29 2007 +0000
+
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@84 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 697792c35c57562b27a73a7ec5c0c30a3e1bccde
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sat Jan 27 12:17:09 2007 +0000
+
+    Apps organization
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@83 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 51ddfb209216ad15e85292ab7016cb3c693ccb0a
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Sat Jan 27 12:15:45 2007 +0000
+
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@82 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit bdc64cb1624abf7a66eb53a8ec2a2867ebda885a
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Jan 24 10:53:25 2007 +0000
+
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@81 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 4c751f981c7f14b5f797efde78cb12a9ce8c7f48
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Jan 24 10:51:57 2007 +0000
+
+    first model
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@80 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 5969f18abb3608d20ff8b720e15331e1aabe826e
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Jan 23 08:56:58 2007 +0000
+
+    let's start the dev'
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@79 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit a7d66994a714fcdeba4511ec41c86a534be97a61
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Jan 23 08:52:02 2007 +0000
+
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@78 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit a16d7103ac072bc6daadb138098a86d0c3b0c4e6
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Jan 23 08:51:00 2007 +0000
+
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@77 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 0440a33878e39d188f73ce84bed68ac7b9f8205e
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Jan 23 08:47:58 2007 +0000
+
+    adding svn:keywords Id on all files !
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@76 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit e5e85d12d0ae448445a00accf483ddcf7ec236e4
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Jan 23 08:45:23 2007 +0000
+
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@75 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 0d99f7bf8b5f27ddb2c41779a28696f198b20b6f
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Jan 23 08:43:42 2007 +0000
+
+    Testing propertie
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@74 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit ac8328310908bd09c0190f30d0b2490ba3a34cba
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Tue Jan 23 08:39:21 2007 +0000
+
+    Photos app' module arch.
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@73 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit a2f99638c7af6deef5a25da2d07fec40a23a2609
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Mon Jan 22 22:55:10 2007 +0000
+
+    Nothing more than before :P Just organize a little bit more
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@72 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 43aa5fb717665dbb41d0363d1a9c2a3be2639acf
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Jan 18 23:00:15 2007 +0000
+
+    Django init
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@71 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 5cef7917cbbf7515d3ec5b5f152499ea846758b9
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Jan 18 22:41:00 2007 +0000
+
+    Finish creating subversion structure
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@70 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 455471e70cee48e2e0aa795c26da69b347bc64f4
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Thu Jan 18 22:31:21 2007 +0000
+
+    Création de la structure
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@69 03d8d1c7-4224-0410-9e48-805bed498e37
+
+commit 1e819cc1ddd24230983118326802e522e130ae37
+Author: vdemeester <vdemeester@03d8d1c7-4224-0410-9e48-805bed498e37>
+Date:   Wed Jan 17 10:26:31 2007 +0000
+
+    Creating trunk rep
+    
+    git-svn-id: https://iki.svn.sourceforge.net/svnroot/iki/trunk@68 03d8d1c7-4224-0410-9e48-805bed498e37
