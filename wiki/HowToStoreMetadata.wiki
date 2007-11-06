@@ -1,3 +1,4 @@
+#labels metadata
 = How to store Metadata =
 
 A ''common'' problem is how to store metadata for our media files. Here is an attempt (and a discussion) about how to handle metadata for media file in the iki system.
