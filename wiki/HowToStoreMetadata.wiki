@@ -1,15 +1,15 @@
 #labels Phase-Design,metadata
 = How to store Metadata =
 
-A ''common'' problem is how to store metadata for our media files. Here is an attempt (and a discussion) about how to handle metadata for media file in the iki system.
+A _common_ problem is how to store metadata for our media files. Here is an attempt (and a discussion) about how to handle metadata for media file in the iki system.
 
-Iki should support many media file, and as it is extensible it should handle any kind of metadata type. All metadata defined for a media file in iki should be stored in the file (if it's possible, indeed). In this way, the metadata are defined once for a file and is available anywhere the file is (because the metadata are '''in''' the file). Anyway, for a system like iki, 90% of data access are reading. To optimize these reading, we should store metadata in memory, and so in the database ; we also should sync the data with the file metadata but not so often ('cause file system access take much longer than database in memory access).
+Iki should support many media file, and as it is extensible it should handle any kind of metadata type. All metadata defined for a media file in iki should be stored in the file (if it's possible, indeed). In this way, the metadata are defined once for a file and is available anywhere the file is (because the metadata are *in* the file). Anyway, for a system like iki, 90% of data access are reading. To optimize these reading, we should store metadata in memory, and so in the database ; we also should sync the data with the file metadata but not so often ('cause file system access take much longer than database in memory access).
 
 == Self-describing Metadata ==
 
 Lots of metadata type, like XMP for example, are self-describing ; I mean, the element of the metadata are not static, you can create any element you want, and fill in whatever you want. 
 
-The problem is the following : most of the DBMS are ''just'' relational and do not support the concept of object. How should we represent metadata object in database, when we don't even know each fields and which will be fill in or not ?
+The problem is the following : most of the DBMS are _just_ relational and do not support the concept of object. How should we represent metadata object in database, when we don't even know each fields and which will be fill in or not ?
 
 With a Object Database, or Object relational database it should be possible to have something dynamic. Any of the metadata object (in an object DBMS) could define their own field. But with a relational DBMS it's not possible at all.
 
@@ -18,11 +18,11 @@ With a Object Database, or Object relational database it should be possible to h
 === Database storing ===
 
 ==== 1st solution ====
-The solution we adopt, for the moment, is to store a ''binay serialized'' object (python object) in a binary type of any Relationnal DBMS that support this kind of type. If the DBMS does not support binary type, we should store these ''serialized object'' in a ascci (text) form.
+The solution we adopt, for the moment, is to store a _binay serialized_ object (python object) in a binary type of any Relationnal DBMS that support this kind of type. If the DBMS does not support binary type, we should store these _serialized object_ in a ascci (text) form.
 
 The [http://djangoproject.com Django] ORM does not support binary field for the moment (rev 6396) so we have to ~~hack django~~ create a custom field that support them. It's not really a good way of doing things, but, well, we don't have choices.
 
-A quick and dirty implementation of a field that support ''binary'' type in DBMS could be the following one.
+A quick and dirty implementation of a field that support _binary_ type in DBMS could be the following one.
 
 {{{
 #!python
@@ -47,7 +47,7 @@ class MetadataField(fields.Field):
         return [oldforms.HiddenField]
 }}}
 
-In the end, we have a models '''Metadata''' that should look like the following one :
+In the end, we have a models *Metadata* that should look like the following one :
 
 {{{
 #!python
@@ -65,7 +65,7 @@ class Metadata(models.Model):
     # [..]
 }}}
 
-The !MetadataField should ''contain'' a serialized python object, using cPickle and binary serialization. It should be faster than using another way to serialize metadata (ie XML, JSON, or else) and we have that an object that is stored.
+The !MetadataField should _contain_ a serialized python object, using cPickle and binary serialization. It should be faster than using another way to serialize metadata (ie XML, JSON, or else) and we have that an object that is stored.
 
 However, storing the Metadata object in an XML form (something like XMP) could be easier in the case of using another Language thant Python and when writing back metadata on the file.
 
@@ -103,7 +103,7 @@ class MetaType(models.Model):
 
 === Metaobject, representation of metadata ===
 
-!MetaObject is the class that should represent a Metadata object, ''for '''any''' type of ~~media~~ object''. We have to ''support'' a notion of '''namespace''', because some metadata format, like XMP, did it. Retrieving any field should be simple, but the field are ''totally'' dynamic. An example should be easier to understand than a overfull explaination ; let's imagine that, in the following example, m is a !MetaObject of a image (photo).
+!MetaObject is the class that should represent a Metadata object, _for *any* type of ~~media~~ object_. We have to _support_ a notion of *namespace*, because some metadata format, like XMP, did it. Retrieving any field should be simple, but the field are _totally_ dynamic. An example should be easier to understand than a overfull explaination ; let's imagine that, in the following example, m is a !MetaObject of a image (photo).
 
 {{{
 #!python
@@ -128,7 +128,7 @@ class MetaType(models.Model):
 
 }}}
 
-Everything can be ''write back'' with XMP in the image file. This allow to have any custom namespace and so a really, huge, extensible way to write metadata for your media files. Now, let's see an example of a sound file.
+Everything can be _write back_ with XMP in the image file. This allow to have any custom namespace and so a really, huge, extensible way to write metadata for your media files. Now, let's see an example of a sound file.
 
 {{{
 #!python
@@ -148,4 +148,4 @@ Everything can be ''write back'' with XMP in the image file. This allow to have 
 
 }}}
 
-It simple to add any type of metadata too. However, some sound format does not support XMP or XML-like metadata format ; it'll be a problem de store ''custom'' metadata in such files, but it's a question of distributing metadata, that's not our business for the moment.
+It simple to add any type of metadata too. However, some sound format does not support XMP or XML-like metadata format ; it'll be a problem de store _custom_ metadata in such files, but it's a question of distributing metadata, that's not our business for the moment.
